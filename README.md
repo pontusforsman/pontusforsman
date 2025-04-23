@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Developer**: [Engineering Student at KTH Royal Institute of Technology.](https://www.kth.se/utbildning/hogskoleingenjor/datateknik/datateknik-hogskoleingenjor-180-hp-1.4117)
+- 💻 **Developer**: Software Developer and [Engineering Student at KTH Royal Institute of Technology.](https://www.kth.se/utbildning/hogskoleingenjor/datateknik/datateknik-hogskoleingenjor-180-hp-1.4117)
 - 🌱 **Always Learning**: Currently strenghtening developer fundamentals 💪
 -  🤖 Diving deeper into AI and ☁️ cloud computing. 
 
