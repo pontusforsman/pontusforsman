@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Pontus
 
-Welcome to my GitHub profile! I'm passionate about technology and solving challenging problems through code. Here's a little more about me:
-
 ---
 
 ## 🚀 About Me
