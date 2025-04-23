@@ -24,4 +24,4 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my projects and connect with me. Let's build something amazing together! 🚀
+Feel free to explore my projects and connect with me. Let's build something together! 🚀
