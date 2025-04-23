@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Python, C++, JavaScript, SQL
-- **Frameworks & Libraries**: React
+- **Frameworks & Libraries**: React, Next.js
 - **Tools & Platforms**: Visual Studio Code, JetBrains IDEs, Git, Node.js, Docker, AWS
 
 ## 📫 Let's Connect
