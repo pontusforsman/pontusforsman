@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Pontus
 
-Welcome to my GitHub profile! I'm passionate about technology, open-source contributions, and solving challenging problems through code. Here's a little more about me:
+Welcome to my GitHub profile! I'm passionate about technology and solving challenging problems through code. Here's a little more about me:
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Developer**: I specialize in building scalable and efficient software solutions.
-- 🌱 **Always Learning**: Currently diving deeper into AI and cloud computing. 
-- 🌍 **Open Source Enthusiast**: I believe in the power of collaboration and sharing knowledge.
+- 💻 **Developer**: Engineering Student at KTH Royal Institute of Technology.
+- 🌱 **Always Learning**: Currently strenghtening developer fundamentals 💪
+-  🤖 Diving deeper into AI and ☁️ cloud computing. 
 
 ---
 
@@ -17,14 +17,6 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source contr
 - **Languages**: Java, Python, C++, JavaScript, SQL
 - **Frameworks & Libraries**: React
 - **Tools & Platforms**: Visual Studio Code, JetBrains IDEs, Git, Node.js, Docker, AWS
-
----
-
-## 📈 GitHub Stats
-
-![Pontus's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontusforsman&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
