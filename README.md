@@ -1,22 +1,6 @@
-# Hi there! 👋 I'm Pontus
+# Hi!
 
 ---
-
-## 🚀 About Me
-
-- 💻 **Developer**: Software Developer and [Engineering Student at KTH Royal Institute of Technology.](https://www.kth.se/utbildning/hogskoleingenjor/datateknik/datateknik-hogskoleingenjor-180-hp-1.4117)
-- 🌱 **Always Learning**: Currently strenghtening developer fundamentals 💪
--  🤖 Diving deeper into AI and ☁️ cloud computing. 
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Java, Python, C++, JavaScript, SQL
-- **Frameworks & Libraries**: React, Next.js
-- **Tools & Platforms**: Visual Studio Code, JetBrains IDEs, Git, Node.js, Docker, AWS
-
-## 📫 Let's Connect
 
 - 📧 Email: ponfor@kth.se / forsmanpontus@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pontus-forsman
